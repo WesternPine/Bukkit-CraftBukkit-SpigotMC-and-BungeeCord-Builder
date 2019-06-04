@@ -1,4 +1,4 @@
-# Bukkit/CraftBukkit,-SpigotMC,-and-BungeeCord-Builder
+# Bukkit-CraftBukkit,-SpigotMC,-and-BungeeCord-Builder
 Builds the latest releases of SpigotMC and BungeeCord into their according Jar files. Though the BungeeCord will not be built, but instead downloaded, the Bukkit/Spigot jars will be.
 
 ## How To Use
