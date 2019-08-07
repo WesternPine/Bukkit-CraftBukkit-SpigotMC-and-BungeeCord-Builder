@@ -7,5 +7,7 @@ Builds the latest releases of SpigotMC and BungeeCord into their according Jar f
 3. Leave opened until you see the message ```A new BungeeCord and Spigot server will be built every 6 hours.```
 4. Close to cancel the automated building script.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+License
+----
+
+[MIT](https://choosealicense.com/)
